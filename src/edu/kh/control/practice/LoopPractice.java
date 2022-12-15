@@ -1,4 +1,4 @@
-package edu.kh.control.practice;
+ package edu.kh.control.practice;
 
 import java.util.Scanner;
 
