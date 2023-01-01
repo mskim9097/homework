@@ -59,12 +59,7 @@ public class Snack {
 	}
 
 	public String information() {
-		return flavor;
-		
+		return kind + "(" + name + "-" + flavor + ") " + numOf + "°³ " + price + "¿ø";
 	}
 	
-	
-	
-	
-
 }
