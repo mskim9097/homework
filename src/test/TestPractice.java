@@ -25,6 +25,8 @@ public class TestPractice {
 		System.out.println(Math.round(3.49));
 		System.out.println(Math.floor(3.52));
 		
+		System.out.println(Double.parseDouble("134.54") + Integer.parseInt("55"));
+		
 	}
 
 }
